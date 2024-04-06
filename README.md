@@ -14,6 +14,17 @@ This project involves the analysis of various datasets related to coffee consump
 - `merged_data.csv`: CSV file containing the merged data from the different datasets.
 - `scrape_merging.ipynb`: Jupyter Notebook containing code for scraping and merging the datasets.
 
+### Data Sources
+
+The data used in this project was obtained from the following sources:
+
+- Coffee Consumption: [worldatlas]([link](https://www.worldatlas.com/articles/top-10-coffee-consuming-nations.html))
+- GDP: [worldpopulationreview]((https://worldpopulationreview.com/countries/by-gdp))
+- Healthcare Indices: [numbeo]((https://www.numbeo.com/health-care/rankings_by_country.jsp))
+- Liver Cancer Incidence: [worldlifeexpectancy]((https://www.worldlifeexpectancy.com/cause-of-death/liver-cancer/by-country/))
+
+Citations and references for each dataset will be provided within the notebook.
+
 ### Insights
 
 The insights.ipynb notebook contains detailed analysis and visualizations exploring various aspects of the data. Key insights and findings will be documented here.
